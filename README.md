@@ -16,5 +16,4 @@ You will only need Node.js and a node global package, npm, installed in your env
 ## Running the project
 
     $ node question1.js
-    $ ctrl + c
     $ node question2.js
